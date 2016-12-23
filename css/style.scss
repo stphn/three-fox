@@ -1,0 +1,36 @@
+body {
+	font-family: Monospace;
+	background: #fff;
+	margin: 0;
+	overflow: hidden;
+
+}
+
+#info {
+	color: #fff;
+	position: absolute;
+	top: 10px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display: block;
+}
+
+#world {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	//background: linear-gradient(150deg, #53f 15%, #05d5ff 70%, #a6ffcb 94%);
+	background: radial-gradient(#b26437, #000 94%);
+}
+
+a {
+	color: #eb6b5e;
+}
+// #canvas {
+// 	position: absolute;
+// 	width: 100%;
+// 	height: 100%;
+// 	overflow: hidden;
+// }
