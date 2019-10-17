@@ -47,10 +47,10 @@
   },
   "homepage": "http://threejs.org/",
   "devDependencies": {
-    "eslint": "^3.10.1",
+    "eslint": "^6.5.1",
     "eslint-config-mdcs": "^4.2.2",
-    "rollup": "^0.36.3",
-    "rollup-watch": "^2.5.0",
-    "uglify-js": "^2.6.0"
+    "rollup": "^1.24.0",
+    "rollup-watch": "^4.3.1",
+    "uglify-js": "^3.6.2"
   }
 }
